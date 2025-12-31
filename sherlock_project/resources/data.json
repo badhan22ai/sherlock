@@ -226,6 +226,12 @@
     "urlMain": "https://www.bandcamp.com/",
     "username_claimed": "blue"
   },
+  "Base": {
+    "errorType": "status_code",
+    "url": "https://www.base.club/{}",
+    "urlMain": "https://www.base.club/",
+    "username_claimed": "test"
+  },
   "Bazar.cz": {
     "errorType": "response_url",
     "errorUrl": "https://www.bazar.cz/error404.aspx",
