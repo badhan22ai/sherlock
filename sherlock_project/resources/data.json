@@ -220,6 +220,12 @@
     "urlMain": "https://booth.pm/",
     "username_claimed": "blue"
   },
+  "Base": {
+    "errorType": "status_code",
+    "url": "https://www.base.club/{}",
+    "urlMain": "https://www.base.club/",
+    "username_claimed": "test"
+  },
   "Bandcamp": {
     "errorType": "status_code",
     "url": "https://www.bandcamp.com/{}",
